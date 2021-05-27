@@ -1,2 +1,2 @@
 # OOP-javascript
-This repo my challenge about OOP
+My challenge about OOP
